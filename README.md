@@ -1,0 +1,2 @@
+# btwaf_sync_firewalld
+宝塔防火墙拉黑的ip自动同步到系统防火墙中
