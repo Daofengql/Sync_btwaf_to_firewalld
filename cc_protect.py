@@ -9,9 +9,9 @@ from hashlib import md5
 from urllib.parse import quote
 
 
-BASE_URL = "http://121.62.19.106:20055"
-BT_PANNLE = "http://121.62.19.106:11012"
-BT_KEY = "3qzpqDP2yTAVWNdWiQUwffmPL00Arkt4"
+BASE_URL = ""
+BT_PANNLE = ""
+BT_KEY = ""
 
 
 
